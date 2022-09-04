@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navi{
+    padding: 20px;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20191226/pngtree-fantasy-bubble-spring-grass-background-image_325665.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+.navhead{
+    color: rgb(82, 7, 7);            
+    font-weight: bold;
+    font-size: xx-large;
+    font-style: oblique;
+}
+
+.ulist {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: large; 
+}
+
+.hlink{
+    color: rgb(82, 7, 7);
+}
+
+.navi ul li{
+    margin: 0px 5px;
+    padding: 5px;
+}
