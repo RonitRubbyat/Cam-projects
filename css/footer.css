@@ -1,24 +1,25 @@
 footer {
     margin: 0px;
     padding: 2px 5px;
-    height: 180px;
+    background-color: rgba(119, 136, 153, 0.247);
+    height: 100%;
     border-top: 2mm ridge white;
     border-bottom: 2mm ridge white;
 }
 
 .f {
     margin: 5px 0px;
-    background-color: royalblue;
-    border: 4px solid royalblue;
+    background-color: #000;
+    border: 4px solid #000;
+    border-radius: 4px;
     width: fit-content;
 }
 
 .ins {
     margin: 5px;
-    background-color: rgb(233, 89, 80);
-    border: 4px solid rgb(233, 89, 80);
-    border-top-left-radius: 5px;
-    border-bottom-right-radius: 5px;
+    background-color: #000;
+    border: 4px solid #000;
+    border-radius: 4px;
     align-content: center;
     height: fit-content;
     width: fit-content;
@@ -32,4 +33,9 @@ footer {
 
 .flink{
     color: #fff;
+}
+
+footer a{
+    color: rgb(0, 0, 59);
+
 }
