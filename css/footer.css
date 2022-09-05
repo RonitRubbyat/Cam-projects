@@ -1,10 +1,9 @@
 footer {
     margin: 0px;
     padding: 2px 5px;
-    background-image: url(https://images.unsplash.com/photo-1557683311-eac922347aa1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZSUyMGFuZCUyMHB1cnBsZXxlbnwwfHwwfHw%3D&w=1000&q=80);
-    background-repeat: repeat;
-    background-size: cover;
     height: 180px;
+    border-top: 2mm ridge white;
+    border-bottom: 2mm ridge white;
 }
 
 .f {
