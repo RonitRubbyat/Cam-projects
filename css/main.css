@@ -23,7 +23,7 @@
 
 section a{
     margin: 5px;
-    /* float: right; */
-    display: right;
+    float: right;
+    transform: translateY(-25px);
     color: rgb(0, 0, 59);
 }
